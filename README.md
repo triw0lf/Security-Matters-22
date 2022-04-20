@@ -143,8 +143,7 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 | https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/tvm-zero-day-vulnerabilities?view=o365-worldwide | Mitigate zero-day vulnerabilities - threat and vulnerability management |
 | https://www.cisa.gov/known-exploited-vulnerabilities | Reducing the signficant risk of known exploited vulnerabilities |
 | https://csrc.nist.gov/publications/detail/sp/800-40/version-20/archive/2005-11-16 | Creating a Patch and Vulnerability Management Program | 
-| https://www.cisa.gov/uscert/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf | Recommended Practice: Improving
-Industrial Control System Cybersecurity with Defense-in-Depth Strategies | 
+| https://www.cisa.gov/uscert/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf | Recommended Practice: Improving Industrial Control System Cybersecurity with Defense-in-Depth Strategies | 
 
 ## ECrime
 
