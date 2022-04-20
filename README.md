@@ -9,6 +9,7 @@ Table of Contents
 
 * [Security Matters 2022 Resource List](#security-matters-2022-resource-list)
    * [Overview](#overview)
+* [Table of Contents](#table-of-contents)
    * [Common Attack Tools](#common-attack-tools)
       * [Most Common Attack Tool List](#most-common-attack-tool-list)
       * [Defenses](#defenses)
@@ -29,6 +30,7 @@ Table of Contents
       * [Information Sharing Organizations](#information-sharing-organizations)
       * [Community Outreach](#community-outreach)
       * [Conferences](#conferences)
+   * [Practice Opportunities](#practice-opportunities)
 
 
 ## Common Attack Tools
@@ -217,15 +219,18 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 
 | Resource | Notes |
 | ------------- | ------------- |
-| | |
-| | | 
+| https://cybersecuritysummit.com/summit/nashville22/ | Cyber Seccurity Summit Nashville |
+| https://bsidesnash.org/ | BSides Nashville |
+| https://cybersecuritysummit.com/summit/stlouis22/ | Cyber Seccurity Summit Saint Louis | 
 
 ## Practice Opportunities
 
 | Resource | Notes |
 | ------------- | ------------- |
-| | |
-| | | 
+| https://tryhackme.com/ | TryHackMe - specifically look at Cyber Defense path |
+| https://www.hackthebox.com/ | HackTheBox |
+| https://www.rangeforce.com/blog/free-cyber-security-training | RangeForce |
+| https://www.blackhillsinfosec.com/services/cyber-range/ | Black Hills Information Security | 
 
 
 ###End
