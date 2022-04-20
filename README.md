@@ -4,7 +4,31 @@
 
 Collection of resources for defending against current threat lanscape trends and improving security knowledge
 
-**Table of Contents**
+Table of Contents
+=================
+
+* [Security Matters 2022 Resource List](#security-matters-2022-resource-list)
+   * [Overview](#overview)
+   * [Common Attack Tools](#common-attack-tools)
+      * [Most Common Attack Tool List](#most-common-attack-tool-list)
+      * [Defenses](#defenses)
+   * [Supply Chain Attacks](#supply-chain-attacks)
+      * [Well Known Supply Chain Attacks](#well-known-supply-chain-attacks)
+      * [Defenses](#defenses-1)
+   * [Vulnerability Exploitation](#vulnerability-exploitation)
+      * [Known Vulnerabilities](#known-vulnerabilities)
+      * [Defenses](#defenses-2)
+   * [ECrime](#ecrime)
+      * [ECrime Threat Actors](#ecrime-threat-actors)
+      * [Defenses](#defenses-3)
+   * [Ransomware](#ransomware)
+      * [Defenses](#defenses-4)
+   * [Threat Intelligence Reports](#threat-intelligence-reports)
+   * [Networking Resources](#networking-resources)
+      * [Law Enforcement](#law-enforcement)
+      * [Information Sharing Organizations](#information-sharing-organizations)
+      * [Community Outreach](#community-outreach)
+      * [Conferences](#conferences)
 
 
 ## Common Attack Tools
