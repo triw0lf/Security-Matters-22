@@ -151,7 +151,7 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 
 | Resource | Notes |
 | ------------- | ------------- |
-| | |
+| https://www.mandiant.com/sites/default/files/2021-09/rpt-fin6-1.pdf | Follow the Money: Dissecting the Operations of FIN6 |
 | | | 
 
 ### Defenses 
