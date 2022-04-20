@@ -6,9 +6,6 @@ Collection of resources for defending against current threat lanscape trends and
 
 **Table of Contents**
 
-[TOCM]
-
-[TOC]
 
 ## Common Attack Tools
 
