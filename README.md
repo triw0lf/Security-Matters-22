@@ -161,8 +161,17 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 
 | Resource | Notes |
 | ------------- | ------------- |
-| | |
-| | | 
+| https://www.trendmicro.com/en_us/research/21/f/secure_secrets_managing_authentication_credentials.html | Secure Secrets: Managing Authentication Credentials |
+| https://www.beyondtrust.com/blog/entry/how-to-manage-and-secure-service-accounts-best-practices | How to Manage and Secure Service Accounts: Best Practices |
+| https://cloud.google.com/blog/products/identity-security/account-authentication-and-password-management-best-practices | 13 best practices for user account, authentication, and password management, 2021 edition |
+| https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory | Best Practices for Securing Active Directory |
+| https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/securing-domain-controllers-against-attack | Securing Domain Controllers Against Attack |
+| https://security.berkeley.edu/education-awareness/securing-remote-desktop-rdp-system-administrators | Securing Remote Desktop (RDP) for System Administrators |
+| https://www.microsoft.com/security/blog/2020/04/16/security-guidance-remote-desktop-adoption/ | Security guidance for remote desktop adoption | 
+| https://www.cisa.gov/uscert/ncas/alerts/aa20-073a | CISA: Enterprise VPN Security |
+| https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF | Selecting and Hardening Remote Access VPN Solutions|
+| https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.security.doc/GUID-E9B71B85-FBA3-447C-8A60-DEE2AE1A405A.html | Securing the ESXi Hypervisor |
+| https://downloads.cloudsecurityalliance.org/whitepapers/Best_Practices_for%20_Mitigating_Risks_Virtual_Environments_April2015_4-1-15_GLM5.pdf | Best Practices for Mitigating Risks in Virtualized Environments |
 
 ## Ransomware
 
