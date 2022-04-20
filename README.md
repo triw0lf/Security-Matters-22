@@ -68,15 +68,17 @@ Table of Contents
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| https://www.okta.com/blog/2022/03/oktas-investigation-of-the-january-2022-compromise/ | Okta + Sykes/Sitel Breach |
+| https://www.mandiant.com/resources/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor | SolarWinds Attack |
+| https://www.zdnet.com/article/updated-kaseya-ransomware-attack-faq-what-we-know-now/ | Kaseya Breach |
+| https://www.zdnet.com/article/log4j-flaw-hunt-shows-how-complicated-the-software-supply-chain-really-is/ | Log4j Attack | 
 
 ### Defenses 
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| | |
+| | | 
 
 ## Vulnerability Exploitation
 
@@ -84,15 +86,15 @@ Table of Contents
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| | |
+| | | 
 
 ### Defenses 
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| | |
+| | | 
 
 ## ECrime
 
@@ -100,15 +102,15 @@ Table of Contents
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| | |
+| | | 
 
 ### Defenses 
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| | |
+| | | 
 
 ## Ransomware
 
@@ -116,15 +118,15 @@ Table of Contents
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| | |
+| | | 
 
 ## Threat Intelligence Reports
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| | |
+| | | 
 
 ## Networking Resources
 
@@ -132,29 +134,29 @@ Table of Contents
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| | |
+| | | 
 
 ### Information Sharing Organizations
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| | |
+| | | 
 
 ### Community Outreach
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| | |
+| | | 
 
 ### Conferences 
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| | |
+| | | 
 
 
 ###End
