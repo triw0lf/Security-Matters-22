@@ -77,8 +77,10 @@ Table of Contents
 
 | Resource | Notes |
 | ------------- | ------------- |
-| | |
-| | | 
+| https://media.defense.gov/2022/Feb/24/2002944158/-1/-1/1/DOD-EO-14017-REPORT-SECURING-DEFENSE-CRITICAL-SUPPLY-CHAINS.PDF | Securing Defense-Critical Supply Chains: An action plan developed in response to President Biden's Executive Order 14017|
+| https://www.cisa.gov/supply-chain-compromise | CISA: Supply Chain Compromises |
+| https://www.cisa.gov/sites/default/files/publications/defending_against_software_supply_chain_attacks_508_1.pdf | Defending against Software Supply Chain Attacks - CISA |
+| https://docs.microsoft.com/en-us/microsoft-365/security/intelligence/supply-chain-malware?view=o365-worldwide | Supply chain malware |
 
 ## Vulnerability Exploitation
 
@@ -86,7 +88,10 @@ Table of Contents
 
 | Resource | Notes |
 | ------------- | ------------- |
-| | |
+| https://www.cisa.gov/uscert/ncas/alerts/aa21-209a | CISA: Top Routinely Exploited Vulnerabilities |
+| https://www.cisa.gov/known-exploited-vulnerabilities-catalog | CISA: Known Exploited Vulnerabilities |
+| https://www.vpls.com/blog/top-exploited-cybersecurity-vulnerabilities-of-2020-2021/ | Top Exploited Cybersecurity Vulnerabilities of 2020 and 2021 (So Far) |
+| https://www.tenable.com/blog/behind-the-scenes-how-we-picked-2021s-top-vulnerabilities-and-what-we-left-out | Behind the Scenes: How We Picked 2021’s Top Vulnerabilities – and What We Left Out |
 | | | 
 
 ### Defenses 
