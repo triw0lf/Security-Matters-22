@@ -92,7 +92,49 @@ Table of Contents
 | https://www.cisa.gov/known-exploited-vulnerabilities-catalog | CISA: Known Exploited Vulnerabilities |
 | https://www.vpls.com/blog/top-exploited-cybersecurity-vulnerabilities-of-2020-2021/ | Top Exploited Cybersecurity Vulnerabilities of 2020 and 2021 (So Far) |
 | https://www.tenable.com/blog/behind-the-scenes-how-we-picked-2021s-top-vulnerabilities-and-what-we-left-out | Behind the Scenes: How We Picked 2021’s Top Vulnerabilities – and What We Left Out |
-| | | 
+
+Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
+1.	CVE-2017-0199
+2.	CVE-2017-11882
+3.	CVE-2018-13379
+4.	CVE-2019-0604
+5.	CVE-2019-0708
+6.	CVE-2019-11510
+7.	CVE-2019-11634
+8.	CVE-2019-5591
+9.	CVE-2019-7481
+10.	CVE-202-5902
+11.	CVE-2020-12271
+12.	CVE-2020-12812
+13.	CVE-2020-1472
+14.	CVE-2020-36198
+15.	CVE-2020-5135
+16.	CVE-2020-8195
+17.	CVE-2020-8196
+18.	CVE-2020-8234
+19.	CVE-2020-8260
+20.	CVE-2021-20016
+21.	CVE-2021-20655
+22.	CVE-2021-2198
+23.	CVE-2021-22893
+24.	CVE-2021-22941
+25.	CVE-2021-22986
+26.	CVE-2021-26084
+27.	CVE-2021-26855
+28.	CVE-2021-2701
+29.	CVE-2021-27102
+30.	CVE-2021-27103
+31.	CVE-2021-27104
+32.	CVE-2021-28799
+33.	CVE-2021-31166
+34.	CVE-2021-31207
+35.	CVE-2021-34473
+36.	CVE-2021-34523
+37.	CVE-2021-36942
+38.	CVE-2021-38647
+39.	CVE-2021-40444
+40.	CVE-2021-40539
+41.	CVE-2021-45046
 
 ### Defenses 
 
