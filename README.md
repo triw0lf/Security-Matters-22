@@ -152,7 +152,10 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 | Resource | Notes |
 | ------------- | ------------- |
 | https://www.mandiant.com/sites/default/files/2021-09/rpt-fin6-1.pdf | Follow the Money: Dissecting the Operations of FIN6 |
-| | | 
+| https://thedfirreport.com/2021/01/18/all-that-for-a-coinminer/ | The DFIR Report: All that for a cryptominer? |
+| https://www.cisa.gov/uscert/ncas/alerts/aa20-280a | Emotet Malware |
+| https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-aligned-ta406-scams-spies-and-steals | Triple Threat: North Korea-Aligned TA406 Scams, Spies, and Steals | 
+| https://assets.sentinelone.com/sentinellabs/sentinellabs_EvilCorp | Sanctions Be Damned | From Dridex to Macaw, The Evolution of Evil Corp | 
 
 ### Defenses 
 
