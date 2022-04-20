@@ -47,8 +47,20 @@ Table of Contents
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| https://isc.sans.edu/forums/diary/Mitigations+against+Mimikatz+Style+Attacks/24612/ | Mitigations against Mimikatz Style Attacks |
+| https://www.securitynewspaper.com/2021/09/23/8-techniques-to-protect-your-windows-network-domains-against-mimikatz-credential-stealing-tool/] | 8 Techniques to Prevent Mimikatz |
+| https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5 | Preventing Mimikatz Attacks |
+| https://sansorg.egnyte.com/dl/XMHRwR5lRO | SANS: Mimikatz Overview, Detections and Defenses |
+| https://www.pwndefend.com/2021/03/19/owa-pwnage/ | OWA Stuffing with Metasploit Detections and Preventions | 
+| https://adsecurity.org/?p=2921 | PowerShell Security: PowerShell Attack Tools, Mitigation, & Detection (PowerSploit) | 
+| https://adsecurity.org/?p=2604 | Detecting Offensive PowerShell Attack Tools (PowerSploit) |
+| https://robwillis.info/2021/02/defending-against-powershell-attacks/ | Defending Against Powershell Attacks (PowerSploit) |
+| https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/ | Cobalt Strike, a Defender’s Guide | 
+| https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence | Awesome Cobalt Strike Defense | 
+| https://www.crowdstrike.com/blog/how-to-block-bloodhound-attacks/ | How to Sniff Out (and Block) BloodHound Attacks | 
+| https://www.microsoft.com/security/blog/2020/08/27/stopping-active-directory-attacks-and-other-post-exploitation-behavior-with-amsi-and-machine-learning/ | Stopping Active Directory attacks and other post-exploitation behavior with AMSI and machine learning |
+| https://posts.specterops.io/bloodhound-versus-ransomware-a-defenders-guide-28147dedb73b | BloodHound versus Ransomware: A Defender’s Guide |
+| https://0x1.gitlab.io/pentesting/Active-Directory-Kill-Chain-Attack-and-Defense/ | Active Directory Kill Chain Attack and Defense | 
 
 ## Supply Chain Attacks
 
