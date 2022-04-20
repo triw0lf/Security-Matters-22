@@ -13,8 +13,11 @@ Collection of resources for defending against current threat lanscape trends and
 
 | Resource | Notes |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| https://github.com/gentilkiwi/mimikatz  | Mimikatz  |
+| https://github.com/rapid7/metasploit-framework  | Metasploit  |
+| https://github.com/PowerShellMafia/PowerSploit | PowerSploit |
+| https://www.cobaltstrike.com/ | Cobalt Strike |
+| https://github.com/BloodHoundAD/BloodHound | Bloodhound |
 
 ### Defenses 
 
