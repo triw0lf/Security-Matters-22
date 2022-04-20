@@ -172,6 +172,7 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 | https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF | Selecting and Hardening Remote Access VPN Solutions|
 | https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.security.doc/GUID-E9B71B85-FBA3-447C-8A60-DEE2AE1A405A.html | Securing the ESXi Hypervisor |
 | https://downloads.cloudsecurityalliance.org/whitepapers/Best_Practices_for%20_Mitigating_Risks_Virtual_Environments_April2015_4-1-15_GLM5.pdf | Best Practices for Mitigating Risks in Virtualized Environments |
+| https://cofense.com/real-phishing-examples-and-threats/ | Phishing Report Database |
 
 ## Ransomware
 
@@ -213,6 +214,13 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 | | | 
 
 ### Conferences 
+
+| Resource | Notes |
+| ------------- | ------------- |
+| | |
+| | | 
+
+## Practice Opportunities
 
 | Resource | Notes |
 | ------------- | ------------- |
