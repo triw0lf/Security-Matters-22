@@ -37,7 +37,7 @@ Table of Contents
 1. Invest in backup infrastructure and test those backups regularly - backup daily if possible
 2. Limit what you connect directly to the Internet
 3. Turn on multi factor authentication for any externally accessible assets
-4. Imeplement network segementation - domain controllers should not be accessible from every asset in your organization
+4. Implement network segementation - domain controllers should not be accessible from every asset in your organization
     a. Bonus: Implement elements of zero trust, prevent hosts from talking to each other using services that are uncommon in your business (if you don't          use RDP, don't allow RDP access between hosts)
 5. Invest in a stronger endpoint security tool, such as Microsoft Defender
 6. Enforce strong password policies and rotations
