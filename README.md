@@ -205,8 +205,36 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 
 | Resource | Notes |
 | ------------- | ------------- |
+| https://www.nationalisacs.org/ | National Council of Information Sharing and Analysis Centers (ISAC) |
+| https://www.fsisac.com | Financial Services ISAC 
+| https://www.dngisac.com/ | Downstream Natural Gas ISAC |
+| https://www.eisac.com/ | Electricity ISAC | 
+| https://healthcareready.org/ | Healthcare Ready |
+| https://h-isac.org/ | Health ISAC |
+| https://www.it-isac.org/ | Information Technology ISAC |
+| https://www.cisecurity.org/ms-isac | Multistate ISAC |
+| https://ongisac.org/ | Oil and Natural Gas ISAC |
+| https://www.ren-isac.net/ | Research and Education Networks ISAC |
+| https://www.rhisac.org/ | Retail and Hospitality ISAC |
+| https://www.ntca.org/member-services/cybershare | Small Broadband ISAC |
+| https://www.waterisac.org/ | Water ISAC |
+| https://www.isao.org/information-sharing-groups/ | Information Sharing and Analysis Organizations (ISAO) |
+| https://www.acscenter.org/ | Advanced Cyber Security Center |
+| https://ciasisao.org/ |  Center for Infrastructure Assurance and Security  ISAO |
+| https://www.cyberusa.us/ | CyberUSA |
+| https://midwestcybercenter.org/ | Midwest Cyber Center |
+| https://www.cyberthreatalliance.org/ | Cyber Threat Alliance |
+| https://faithbased-isao.org/ | Faith Based ISAO |
+| https://www.energysec.org/ | EnergySec |
+| https://www.in.gov/cybersecurity/ | Indiana ISAC |
+| https://www.k12six.org/ | K12 ISAO |
+| https://ncuisao.org/ | National Credit Union ISAO |
 | | |
-| | | 
+| | |
+| | |
+| | |
+| | |
+| | |
 
 ### Community Groups
 
