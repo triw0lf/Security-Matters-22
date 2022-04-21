@@ -40,12 +40,12 @@ Table of Contents
 4. Implement network segementation - domain controllers should not be accessible from every asset in your organization
     * Bonus: Implement elements of zero trust, prevent hosts from talking to each other using services that are uncommon in your business (if you don't  use RDP, don't allow RDP access between hosts)
 5. Invest in a stronger endpoint security tool, such as Microsoft Defender
-  * Bonus: Implement defense in depth and have firewalls, email protection, and antivirus at a minimum
-7. Enforce strong password policies and rotations
-8. Block access to known malicious domains and IPs, and things you don't do business with
-9. Develop an incident response plan and test it at least once a year - know who to call when things go bad
-10. Participate in information sharing communities
-11. 
+   * Bonus: Implement defense in depth and have firewalls, email protection, and antivirus at a minimum
+6. Enforce strong password policies and rotations
+7. Block access to known malicious domains and IPs, and things you don't do business with
+8. Develop an incident response plan and test it at least once a year - know who to call when things go bad
+9. Participate in information sharing communities
+10. 
 
 ## Common Attack Tools
 
