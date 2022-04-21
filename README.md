@@ -187,9 +187,9 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 
 ## Threat Intelligence Reports
 
-| Resource | Notes |
+| Resource |
 | ------------- | ------------- |
-| [Palo Alto Ransomware Report](repo/blob/master/main/Threat Intelligence Reports/2022-unit42-ransomware-threat-report-final.pdf) | |
+| [Palo Alto Ransomware Report](https://github.com/triw0lf/Security-Matters-22/blob/main/Threat%20Intelligence%20Reports/2022-unit42-ransomware-threat-report-final.pdf) |
 | | | 
 
 ## Networking Resources
