@@ -112,7 +112,7 @@ Table of Contents
 | https://www.vpls.com/blog/top-exploited-cybersecurity-vulnerabilities-of-2020-2021/ | Top Exploited Cybersecurity Vulnerabilities of 2020 and 2021 (So Far) |
 | https://www.tenable.com/blog/behind-the-scenes-how-we-picked-2021s-top-vulnerabilities-and-what-we-left-out | Behind the Scenes: How We Picked 2021’s Top Vulnerabilities – and What We Left Out |
 
-Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
+Palo Alto Networks Most Exploited CVEs by Ransomware Gangs:
 1.	CVE-2017-0199
 2.	CVE-2017-11882
 3.	CVE-2018-13379
