@@ -43,9 +43,11 @@ Table of Contents
    * Bonus: Implement defense in depth and have firewalls, email protection, and antivirus at a minimum
 6. Enforce strong password policies and rotations
 7. Block access to known malicious domains and IPs, and things you don't do business with
+   * If you don't do business with Russia, why let connections in from there?
 8. Develop an incident response plan and test it at least once a year - know who to call when things go bad
-9. Participate in information sharing communities
-10. 
+9. Employ least privilege - not everyone needs administrative access 
+10. Participate in information sharing communities
+   * The more we stay silent, the more they win
 
 ## Common Attack Tools
 
@@ -269,12 +271,8 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 | https://www.in.gov/cybersecurity/ | Indiana ISAC |
 | https://www.k12six.org/ | K12 ISAO |
 | https://ncuisao.org/ | National Credit Union ISAO |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| https://cloudsecurityalliance.org/ | Cloud Security Alliance |
+| https://www.first.org/ | Forum of Incident Response and Security Teams |
 
 ### Community Groups
 
