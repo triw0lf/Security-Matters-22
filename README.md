@@ -28,7 +28,7 @@ Table of Contents
    * [Networking Resources](#networking-resources)
       * [Law Enforcement](#law-enforcement)
       * [Information Sharing Organizations](#information-sharing-organizations)
-      * [Community Outreach](#community-outreach)
+      * [Community Groups](#community-groups)
       * [Conferences](#conferences)
    * [Practice Opportunities](#practice-opportunities)
 
@@ -208,12 +208,17 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 | | |
 | | | 
 
-### Community Outreach
+### Community Groups
 
 | Resource | Notes |
 | ------------- | ------------- |
-| | |
-| | | 
+| https://www.meetup.com/STL-CYBER-Meetup/ | STL Cyber - security meetup in Saint Louis |
+| https://www.meetup.com/OWASP-STL/ | OWASP Saint Louis |
+| https://www.meetup.com/NashSec/ | NashSEC |
+| https://www.meetup.com/OWASP-Nashville-Chapter/ | OWASP Nashville |
+| https://www.meetup.com/DevSecHops-Louisville/ | DevSecHops Louisville |
+| https://www.meetup.com/DevSecHops-Lexington/ | DevSecHops Lexington |
+| https://seckc.org | SecKC - Kansas City | 
 
 ### Conferences 
 
@@ -222,6 +227,9 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 | https://cybersecuritysummit.com/summit/nashville22/ | Cyber Seccurity Summit Nashville |
 | https://bsidesnash.org/ | BSides Nashville |
 | https://cybersecuritysummit.com/summit/stlouis22/ | Cyber Seccurity Summit Saint Louis | 
+| https://bsidesstl.org/ | BSides Saint Louis |
+| https://www.kychamber.com/events/education/security | Kentucky Chamber of Commerce Cybersecurity Conference |
+| https://www.ky-cae.com/ | Kentucky Cybersecurity and Forensics Conference | 
 
 ## Practice Opportunities
 
