@@ -31,7 +31,7 @@ Table of Contents
       * [Community Groups](#community-groups)
       * [Conferences](#conferences)
    * [Practice Opportunities](#practice-opportunities)
-      * [End](#end)
+   * [End](#end)
 
 ## If you only do 10 things, here is what you should do
 
@@ -308,4 +308,4 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 | https://www.blackhillsinfosec.com/services/cyber-range/ | Black Hills Information Security | 
 
 
-### End
+## End
