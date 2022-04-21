@@ -32,6 +32,19 @@ Table of Contents
       * [Conferences](#conferences)
    * [Practice Opportunities](#practice-opportunities)
 
+## If you only do 10 things, here is what you should do
+
+1. Invest in backup infrastructure and test those backups regularly - backup daily if possible
+2. Limit what you connect directly to the Internet
+3. Turn on multi factor authentication for any externally accessible assets
+4. Imeplement network segementation - domain controllers should not be accessible from every asset in your organization
+    a. Bonus: Implement elements of zero trust, prevent hosts from talking to each other using services that are uncommon in your business (if you don't          use RDP, don't allow RDP access between hosts)
+5. Invest in a stronger endpoint security tool, such as Microsoft Defender
+6. Enforce strong password policies and rotations
+7. Block access to known malicious domains and IPs, and things you don't do business with
+8. Develop an incident response plan and test it at least once a year - know who to call when things go bad
+9. Participate in information sharing communities
+10. 
 
 ## Common Attack Tools
 
@@ -182,15 +195,16 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 
 | Resource | Notes |
 | ------------- | ------------- |
-| https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/wp-ransomware-protection-and-containment-strategies.pdf | Ransomware Protection and
-Containment Strategies - Practical Guidance for Endpoint Protection, Hardening and Containment |
+| https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/wp-ransomware-protection-and-containment-strategies.pdf | Ransomware Protection and Containment Strategies - Practical Guidance for Endpoint Protection, Hardening and Containment |
 | https://www.cisa.gov/stopransomware/how-can-i-protect-against-ransomware | CISA: Stop Ransomware |
 | https://support.microsoft.com/en-us/windows/protect-your-pc-from-ransomware-08ed68a7-939f-726c-7e84-a72ba92c01c3 | Protect your PC from ransomware |
 | https://ransomware.org/how-to-prevent-ransomware/threat-hunting/ransomware-and-active-directory/ | Ransomware and Active Directory |
 | https://www.microsoft.com/security/blog/2017/11/06/defending-against-ransomware-using-system-design/ | Defending against ransomware using system design |
 | https://docs.microsoft.com/en-us/microsoft-365/solutions/ransomware-protection-microsoft-365?view=o365-worldwide | Deploy ransomware protection for your Microsoft 365 tenant |
-| | |
-| | |
+| https://csrc.nist.gov/projects/ransomware-protection-and-response | NIST: Ransomware Protection and Response |
+| https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/finance/deloitte-cn-fas-anti-ransomware-strategy-en-201204.pdf | Deloitte Anti Ransomware Strategy |
+| https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet.html | What is Attack Surface Analysis and Why is it Important? |
+| https://www.cisa.gov/sites/default/files/publications/CISA%20Zero%20Trust%20Maturity%20Model_Draft.pdf | CISA: Zero Trust Maturity Model |
 
 ## Threat Intelligence Reports
 
