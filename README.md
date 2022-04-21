@@ -188,9 +188,17 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 ## Threat Intelligence Reports
 
 | Resource |
-| ------------- | ------------- |
+| ------------- |
 | [Palo Alto Ransomware Report](https://github.com/triw0lf/Security-Matters-22/blob/main/Threat%20Intelligence%20Reports/2022-unit42-ransomware-threat-report-final.pdf) |
-| | | 
+| [2022 Red Canary Threat Detection Report](https://github.com/triw0lf/Security-Matters-22/blob/main/Threat%20Intelligence%20Reports/2022_ThreatDetectionReport_RedCanary.pdf)|
+| [2021 European Union Agency for Cybersecurity Threat Landscape Report](https://github.com/triw0lf/Security-Matters-22/blob/main/Threat%20Intelligence%20Reports/ENISA%20Threat%20Landscape%202021.pdf)|
+| [2022 Mandiant M Trends Report](https://github.com/triw0lf/Security-Matters-22/blob/main/Threat%20Intelligence%20Reports/M-Trends%202022%20Report.pdf)|
+| [2022 Crowdstrike Global Threat Report](https://github.com/triw0lf/Security-Matters-22/blob/main/Threat%20Intelligence%20Reports/Report2022GTR.pdf)|
+| [2021 Recorded Future Malware and TTP Threat Landscape](https://github.com/triw0lf/Security-Matters-22/blob/main/Threat%20Intelligence%20Reports/cta-2022-0315.pdf)|
+| [2022 Deloitte Threat Landscape Report](https://github.com/triw0lf/Security-Matters-22/blob/main/Threat%20Intelligence%20Reports/cyber-threat-landscape-2022.pdf)|
+| [2021 Mandiant M Trends Report](https://github.com/triw0lf/Security-Matters-22/blob/main/Threat%20Intelligence%20Reports/fireeye-rpt-mtrends-2021.pdf)|
+| [2022 Blackberry Threat Report](https://github.com/triw0lf/Security-Matters-22/blob/main/Threat%20Intelligence%20Reports/report-bb-2022-threat-report.pdf)|
+| [2022 Sophos Threat Report](https://github.com/triw0lf/Security-Matters-22/blob/main/Threat%20Intelligence%20Reports/sophos-2022-threat-report.pdf)|
 
 ## Networking Resources
 
