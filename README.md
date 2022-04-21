@@ -182,8 +182,15 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 
 | Resource | Notes |
 | ------------- | ------------- |
+| https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/wp-ransomware-protection-and-containment-strategies.pdf | Ransomware Protection and
+Containment Strategies - Practical Guidance for Endpoint Protection, Hardening and Containment |
+| https://www.cisa.gov/stopransomware/how-can-i-protect-against-ransomware | CISA: Stop Ransomware |
+| https://support.microsoft.com/en-us/windows/protect-your-pc-from-ransomware-08ed68a7-939f-726c-7e84-a72ba92c01c3 | Protect your PC from ransomware |
+| https://ransomware.org/how-to-prevent-ransomware/threat-hunting/ransomware-and-active-directory/ | Ransomware and Active Directory |
+| https://www.microsoft.com/security/blog/2017/11/06/defending-against-ransomware-using-system-design/ | Defending against ransomware using system design |
+| https://docs.microsoft.com/en-us/microsoft-365/solutions/ransomware-protection-microsoft-365?view=o365-worldwide | Deploy ransomware protection for your Microsoft 365 tenant |
 | | |
-| | | 
+| | |
 
 ## Threat Intelligence Reports
 
