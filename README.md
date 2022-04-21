@@ -198,8 +198,18 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 
 | Resource | Notes |
 | ------------- | ------------- |
-| | |
-| | | 
+| https://www.fbi.gov/contact-us/field-offices/louisville | FBI Field Office - Louisville |
+| https://www.fbi.gov/contact-us/field-offices/indianapolis | FBI Field Office - Indianapolis | 
+| https://www.fbi.gov/contact-us/field-offices/knoxville | FBI Field Office - Knoxville | 
+| https://www.fbi.gov/contact-us/field-offices/memphis | FBI Field Office - Memphis | 
+| https://www.fbi.gov/contact-us/field-offices/springfield | FBI Field Office - Springfield | 
+| https://www.fbi.gov/contact-us/field-offices/stlouis | FBI Field Office - Saint Louis | 
+| https://www.cisa.gov/uscert/resources/business# | CISA Cyber Security Advisors | 
+| https://www.cisa.gov/critical-infrastructure-partnership-advisory-council | CISA Critical Infrastructure Partnership Advisory Council | 
+| https://www.cisa.gov/critical-infrastructure-partnership-advisory-council | CISA Region 4 - Kentucky, Tennessee | 
+| https://www.cisa.gov/region-7 | CISA Region 7 - Missouri | 
+| https://www.cisa.gov/region-5 | CISA Region 5 - Illinois | 
+| https://www.cisa.gov/partnership-engagement-branch | CISA Partnership and Engagement | 
 
 ### Information Sharing Organizations
 
