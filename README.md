@@ -46,8 +46,7 @@ Table of Contents
    * If you don't do business with Russia, why let connections in from there?
 8. Develop an incident response plan and test it at least once a year - know who to call when things go bad
 9. Employ least privilege - not everyone needs administrative access 
-10. Participate in information sharing communities
-   * The more we stay silent, the more they win
+10. Update and patch quickly, regularly, and automatically if possible
 
 ## Common Attack Tools
 
