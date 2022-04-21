@@ -189,7 +189,7 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 
 | Resource | Notes |
 | ------------- | ------------- |
-| [Palo Alto Ransomware Report](/Threat Intelligence Reports/2022-unit42-ransomware-threat-report-final.pdf) | |
+| [Palo Alto Ransomware Report](repo/blob/master/main/Threat Intelligence Reports/2022-unit42-ransomware-threat-report-final.pdf) | |
 | | | 
 
 ## Networking Resources
@@ -279,4 +279,4 @@ Palo Alto Networks Most Exploited CVEs by Ransomware Ganges:
 | https://www.blackhillsinfosec.com/services/cyber-range/ | Black Hills Information Security | 
 
 
-###End
+### End
